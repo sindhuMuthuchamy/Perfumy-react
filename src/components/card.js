@@ -11,17 +11,17 @@ function Card(){
       <div class="card-container">
           <img class="card-image" src={img1} alt="one"></img>
           <p class="hide">Victoria</p>
-          <p class="card-text">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Necessitatibus eos numquam, officia quidem deleniti veniam?</p>
+          <p class="card-text">Lorem ipsum dolor sit, amet consectetur adipisicing elit. </p>
       </div>
       <div class="card-container">
           <img class="card-image" src={img2} alt="two"></img>
           <p class="hide">Bella Vita</p>
-          <p class="card-text">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Necessitatibus eos numquam, officia quidem deleniti veniam?</p>
+          <p class="card-text">Lorem ipsum dolor sit, amet consectetur adipisicing elit.  </p>
       </div>
       <div class="card-container">
           <img class="card-image" src={img3} alt="three"></img>
-          <p class="hide">Aqua Algoerica</p>
-          <p class="card-text">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Necessitatibus eos numquam, officia quidem deleniti veniam?</p>
+          <p class="hide">Aqua Angel</p>
+          <p class="card-text">Lorem ipsum dolor sit, amet consectetur adipisicing elit. </p>
       </div>
     </div>
     )
